@@ -1,6 +1,6 @@
 # Network Protocols for Security - TCP and UDP - Command Cheat Sheet
 
-[Network Protocols for Security: TCP and UDP](https://app.pluralsight.com/labs/detail/0ef50745-71ca-49b2-8bb7-acd7a803326f/toc)
+**Pluralsight Lab:** [Network Protocols for Security: TCP and UDP](https://app.pluralsight.com/labs/detail/0ef50745-71ca-49b2-8bb7-acd7a803326f/toc)
 
 ## Wireshark
 Filter out a specific port:
