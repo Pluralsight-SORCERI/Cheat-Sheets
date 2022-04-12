@@ -38,5 +38,3 @@ Additional BPF Filter examples:
 
 "Sort Sandwich":
 - `sort | uniq -c | sort -n`
-
-Reference: https://www.devaultsecurity.com/blog/2021/09/04/analyzing-logs-with-the-linux-sort-sandwich/
