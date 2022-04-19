@@ -1,7 +1,7 @@
 # Cheat-Sheets
 General reference cheat sheets for various tools or Pluralsight courses
 
-(ALL CHEATSHEETS)[Pluralsight Course Cheat Sheets]
+[ALL CHEATSHEETS](Pluralsight Course Cheat Sheets)
 
 ## Pluralsight Courses
 
