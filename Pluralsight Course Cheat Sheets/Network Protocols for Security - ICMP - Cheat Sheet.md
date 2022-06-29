@@ -29,7 +29,7 @@ Capture traffic filtering for ICMP or ARP and write output to PCAP file:
 - `sudo tcpdump -nn 'icmp or arp' -w icmp.pcap`
 
 Read a PCAP, filtering on a specific host and printing the packet contents:
-- `tcpdump -nn -X -r icmp.pcap 'host 172.31.24.20'
+- `tcpdump -nn -X -r icmp.pcap 'host 172.31.24.20'`
 
 ## Wireshark
 Display filter for ICMP type 11 (time-to-live exceeded):
