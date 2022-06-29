@@ -30,7 +30,7 @@ Print TTL values:
 
 ## mergecap
 Combine two PCAP files:
-`mergecap -w combined-analysis.pcap analysis1.pcap analysis2.pcap`
+- `mergecap -w combined-analysis.pcap analysis1.pcap analysis2.pcap`
 
 ## Linux Reference
 Show interface information (including MAC address):
